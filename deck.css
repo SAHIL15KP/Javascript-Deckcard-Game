@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    /* background-image:url('kk.jpg') ; */
+    font-size: 44px;
+    background-color: green;
+    color: aliceblue;
+    font-weight: 900;
+    /* background-size: cover; */
+}
+h1{
+    color: yellow;
+    font-size: 86px;
+
+}
+#messagel{
+    font-style: italic;
+}
+
+button{
+    width: 255px;
+    height: 56px;
+    font-size: 40px;
+    background-color: yellow;
+    color: green;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
